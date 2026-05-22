@@ -28,7 +28,7 @@ class Shreya:
 
     focus       = ["Backend Engineering", "AI/ML", "Cybersecurity"]
     currently   = "Building production-grade systems & exploring Generative AI"
-    dsa_grind   = "100+ problems solved on LeetCode"
+    dsa_grind   = "100+ problems solved on LeetCode + other platforms" 
     fun_fact    = "I once reduced API latency by 40% just by rethinking schema design 🚀"
 ```
 
